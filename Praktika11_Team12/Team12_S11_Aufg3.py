@@ -29,7 +29,7 @@ def Team12_S11_Aufg3(f,a,b,n,y0):
         
         i+=1
     
-    Team12_S11_Aufg1(f, a, b, a, b, 0.1, 0.1)
+    Team12_S11_Aufg1(f, a, b, a, b, 20, 20)
     
     return x[1:],y_euler,y_mittelpunkt,y_modeuler
 
